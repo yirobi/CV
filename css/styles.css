@@ -16,3 +16,15 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+.item{
+  line-height: 2;
+}
+.first{
+  width: 90%;
+  float: left;
+
+}
+.second{
+  width: 10%;
+  float: right;
+}
